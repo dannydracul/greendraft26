@@ -27,7 +27,7 @@
 #### 1.10 show run | sec archive
 ![](images/Pasted%20image%2020260722134650.png)
 #### 1.11 show archive
-#### ![](images/Pasted%20image%2020260722134418.png|989) 
+![](images/Pasted%20image%2020260722134418.png|989) 
 #### 1.12 show clock
 ![](images/Pasted%20image%2020260722135111.png)
 #### 1.13 show ntp status
