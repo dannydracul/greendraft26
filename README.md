@@ -8,29 +8,29 @@
 ![](images/Pasted%20image%2020260722112944.png)
 #### 1.4 show int trunk
 ![](images/Pasted%20image%2020260722131556.png)
-#### 1.4 show int switchport
+#### 1.5 show int switchport
 ![](images/Pasted%20image%2020260722131745.png)
 ![](images/Pasted%20image%2020260722131941.png)
 ![](images/Pasted%20image%2020260722132008.png)
 ![](images/Pasted%20image%2020260722132044.png)
 ![](images/Pasted%20image%2020260722132129.png)
-#### 1.5 show ip int br | exc unass
+#### 1.7 show ip int br | exc unass
 ![](images/Pasted%20image%2020260722132229.png)
-#### 1.6 show ip ssh
+#### 1.8 show ip ssh
 ![](images/Pasted%20image%2020260722132318.png)
-#### 1.7 show run | sec line
+#### 1.9 show run | sec line
 ![](images/Pasted%20image%2020260722133041.png)
-#### 1.8 show users
+#### 1.10 show users
 ![](images/Pasted%20image%2020260722134149.png)
-#### 1.9 show run | sec user
+#### 1.11 show run | sec user
 ![](images/Pasted%20image%2020260722134246.png)
-#### 1.10 show run | sec archive
+#### 1.12 show run | sec archive
 ![](images/Pasted%20image%2020260722134650.png)
-#### 1.11 show archive
-![] (images/Pasted%20image%20260724072740.png)
-#### 1.12 show clock
+#### 1.13 show archive
+![](images/Pasted%20image%20260724072740.png)
+#### 1.14 show clock
 ![](images/Pasted%20image%2020260722135111.png)
-#### 1.13 show ntp status
+#### 1.15 show ntp status
 ![](images/Pasted%20image%2020260722135215.png)
 #### 2. Маршрутизатор C-RTR
 #### 2.1 show run | sec int
